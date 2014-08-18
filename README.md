@@ -22,6 +22,10 @@ Meritocratic Anarchy. Do what you want, ideas that individuals like (a purely su
 
 Nothing formal. Though, being able to program in at least one language would be helpful. If you're a blackhat, please compartmentalize those activities from the persona that interacts with us.
 
+### IRC Channel
+
+`irc.cryto.net #darikitecht`
+
 ## License Requirements
 
 All code owned by the darkitecht organization must have one or more of the following licenses:
