@@ -11,8 +11,9 @@ We are programmers who think to ourselves, "Wouldn't it be great if ____ existed
 
 * @defuse
 * @joepie91
-* @sarciszewski
 * @redragonx
+* @sarciszewski
+* @treeki
 
 ## Organization
 
